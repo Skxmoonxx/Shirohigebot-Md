@@ -5,14 +5,14 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6283862006229','6283862006229'] 
+global.owner = ['6285657043989','6285657043989'] 
 global.mods = [''] 
-global.prems = ['6283862006229'] 
+global.prems = ['6285657043989'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '𝚂𝙺𝚈𝚇𝙼𝙾𝙾𝙽 𝙾𝙵𝙲'
-global.numberowner = '6283862006229','6283862006229',
-global.instagram = 'https://instagram.com/skymoonn_real?igshid=YmMyMTA2M2Y='
+global.nameowner = 'Yann'
+global.numberowner = '6285657043989','6285657043989',
+global.instagram = 'https://www.instagram.com/invites/contact/?i=1i0mzlijul906&utm_content=oxv0ep2'
 global.github = 'https://github.com/Xavieroffcial'
 global.Youtube = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 global.sc = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
@@ -24,12 +24,12 @@ global.pulsa = '083862006229'
 global.gopay = '083862006229'
 
 //=============『 Info Bot 』=================//
-global.namebot = '𝚂𝙷𝙸𝚁𝙾𝙷𝙸𝙶𝙴-𝙼𝙳'
+global.namebot = 'Yann Botz'
 global.gc = 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu'
 global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/skymoonn_real?igshid=YmMyMTA2M2Y='
-global.pulsa = '083862006229'
-global.nomer = 'https://wa.me/6283862006229' //ganti jadi nomor mu
+global.pulsa = '085657043989'
+global.nomer = 'https://wa.me/6285657043989' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 BULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 20.000\nMAKSIMAL 2 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 4 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -44,10 +44,10 @@ global.fotonya8 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Shirohige-Md'
+global.wm = 'Yan Botz'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 𝚂𝙺𝚈𝚇𝙼𝙾𝙾𝙽'
-global.wm3 = 'ᯤ 𝚂𝙺𝚈𝚇𝙼𝙾𝙾𝙽 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 𝚈𝙰𝙽'
+global.wm3 = 'ᯤ 𝚈𝙰𝙽𝙶 𝚂𝚃𝙾𝚁𝙴'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = '𝚜𝚑𝚒𝚛𝚘'
-global.author = '@skyxmoon'
+global.packname = 'Yan'
+global.author = '@yan semture'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
